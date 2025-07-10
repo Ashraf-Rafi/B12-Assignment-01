@@ -4,7 +4,7 @@
   font-style: normal;
 }
 
-.raleway-normal{
+.raleway-normal .banner-title{
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
@@ -32,4 +32,27 @@ font-size: 34px;
     color: white;
     padding: 12px 36px;
     border-radius: 10px;
+}
+/* banner-styles */
+        
+.banner-title{
+    font-size: 70px;
+    font-weight: bold;
+    align-items: center;
+    margin-left: 400px;
+    margin-right: 300px;
+    color: #252432;
+}
+.banner{
+    align-items: center;
+    display: inline;
+     align-items: center;
+    margin-bottom: 30px;
+    color: #252432;
+}
+
+.button-middle{
+    align-items: center;
+    margin-left: 660px;
+    margin-right: 350px;
 }
