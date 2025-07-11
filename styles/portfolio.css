@@ -186,3 +186,14 @@ color:#252432
     margin-right: 50px;
     
 }
+.test-center{
+    text-align: center;
+}
+
+.skills-container{
+    display: flex;
+    gap: 20px;
+}
+.skill{
+    padding: 30px;
+}
