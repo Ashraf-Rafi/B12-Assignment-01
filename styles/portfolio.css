@@ -146,20 +146,20 @@ color:#252432
     gap: 100px;
 }
 .footer-class{
-    font-size: 95px;
+    font-size: 85px;
 }
 .footer-coloumn{
     width: 50%;
 }
 .footer input[type="text"], footer input[type="email"]{
     height: 60px;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: white;
     display: block;
     width: 100%;
     padding: 10px 20px;
     margin-bottom: 19px;
-    border: none;
+    
 }
 .footer-title{
     font-size: 100px;
