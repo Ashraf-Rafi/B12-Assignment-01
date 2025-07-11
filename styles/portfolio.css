@@ -171,4 +171,18 @@ color:#252432
 .footer-ending{
     text-align: center;
     justify-content: space-between;
+
+}
+
+.footer-ending ul li{
+    list-style: none;
+    text-decoration: none;
+}
+.footer-ending ul {
+    text-decoration: none;
+    color: #8987A1;
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+    
 }
